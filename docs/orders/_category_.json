@@ -1,0 +1,8 @@
+{
+  "label": "Orders",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Handle customer orders, process shipments, and manage returns."
+  }
+}

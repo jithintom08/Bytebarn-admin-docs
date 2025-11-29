@@ -1,0 +1,8 @@
+{
+  "label": "Dashboard",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Overview of the admin dashboard and its key metrics."
+  }
+}
