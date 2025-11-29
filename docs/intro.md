@@ -2,46 +2,46 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to Bytebarn Admin
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the **Bytebarn Admin User Manual**. This comprehensive guide will help you navigate and effectively use all the features available in the Bytebarn administration panel.
+
+## Overview
+
+The Bytebarn Admin Panel is a powerful web-based interface that allows administrators to manage all aspects of the Bytebarn platform. From this central dashboard, you can:
+
+- **Manage Products** - Add, edit, and organize your product catalog
+- **Handle Orders** - Track, process, and fulfill customer orders
+- **Manage Customers** - View customer information and manage accounts
+- **Configure Settings** - Customize your store settings and preferences
+- **View Reports** - Access analytics and business insights
 
 ## Getting Started
 
-Get started by **creating a new site**.
+To access the Bytebarn Admin Panel:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+1. Open your web browser and navigate to the admin URL
+2. Enter your admin credentials (email and password)
+3. Click the **Login** button to access the dashboard
 
-### What you'll need
+:::tip Quick Access
+Bookmark the admin panel URL for quick access: [https://bytebarndev.goodmayesonline.com/admin](https://bytebarndev.goodmayesonline.com/admin)
+:::
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## System Requirements
 
-## Generate a new site
+For the best experience with the Bytebarn Admin Panel, ensure you have:
 
-Generate a new Docusaurus site using the **classic template**.
+- A modern web browser (Chrome, Firefox, Safari, or Edge)
+- A stable internet connection
+- Screen resolution of 1024x768 or higher recommended
 
-The classic template will automatically be added to your project after you run the command:
+## Need Help?
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+If you encounter any issues or have questions not covered in this manual, please contact our support team:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- **Email**: bytebarnau@gmail.com
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Navigation Guide
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Use the sidebar to navigate through different sections of this user manual. Each section provides detailed instructions on specific features and functionalities of the admin panel.
